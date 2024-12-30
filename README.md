@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surya23tiwari
+- 👋 Hi, I’m Surya Tiwari
 - 👀 I’m interested in DevOps.
 - 🌱 I’m currently learning Cloud & DevOps.
 - 💞️ I’m looking to collaborate on DevOps Engineering.
